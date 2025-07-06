@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ajramos-mcp-bonusly-badge.png)](https://mseep.ai/app/ajramos-mcp-bonusly)
+
 # mcp-bonusly
 
 [![Available on Smithery](https://img.shields.io/badge/Available%20on-Smithery-blue?style=flat&logo=smithery)](https://smithery.ai/)
